@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.csv
+*.jpg
+*.png
+*.xlsx
+uploads/
+results/
+model_checkpoints/
+.env
