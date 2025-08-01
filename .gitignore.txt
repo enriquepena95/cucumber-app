@@ -8,3 +8,4 @@ uploads/
 results/
 model_checkpoints/
 .env
+*.pth
