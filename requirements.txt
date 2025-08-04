@@ -5,4 +5,5 @@ opencv-python-headless
 numpy
 pandas
 torch==2.1.0+cu118
+--find-links https://download.pytorch.org/whl/torch_stable.html
 git+https://github.com/facebookresearch/detectron2.git@main#egg=detectron2
