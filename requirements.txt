@@ -4,7 +4,5 @@ python-multipart
 opencv-python-headless
 numpy
 pandas
-# Compatible Torch version for Python 3.12
-torch==2.2.2
-# Install detectron2 from GitHub built for torch 2.2+
-git+https://github.com/facebookresearch/detectron2.git@main
+torch==2.1.0+cu118
+git+https://github.com/facebookresearch/detectron2.git@main#egg=detectron2
